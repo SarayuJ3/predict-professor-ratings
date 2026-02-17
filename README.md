@@ -1,7 +1,9 @@
 # Predicting Professor Ratings  
 **Personal Project | December 2025**
 
-A machine learning project that fine-tunes a BERT transformer model to predict professor ratings from textual student reviews. The model performs sentiment analysis on professor feedback and infers corresponding numeric ratings. [presentation link](https://docs.google.com/presentation/d/1Rso8tbWSLRDUhBD3TvWBi5x16zz6Ib5BocqTE_qrZxA/edit?usp=sharing)
+A machine learning project that fine-tunes a BERT transformer model to predict professor ratings from textual student reviews. The model performs sentiment analysis on professor feedback and infers corresponding numeric ratings. 
+
+### [presentation link](https://docs.google.com/presentation/d/1Rso8tbWSLRDUhBD3TvWBi5x16zz6Ib5BocqTE_qrZxA/edit?usp=sharing)
 ---
 
 ## Overview
